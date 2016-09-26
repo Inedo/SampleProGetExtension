@@ -8,7 +8,7 @@ using Inedo.ProGet.Feeds;
  * 
  * Include only packages that start with "Microsoft." or "Inedo."
  * 
- * The persisted XML for this directory is:
+ * The persisted XML for this filter is:
  *   <SampleProGetExtension.PackageFilters.SamplePackageFilter Assembly="SampleProGetExtension"></SampleProGetExtension.PackageFilters.SamplePackageFilter>
  */
  
